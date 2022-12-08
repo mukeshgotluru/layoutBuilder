@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.heading {
+  color: #475569;
+  text-align: center;
+  font-weight: 600;
+}
+.footer-container {
+  background-color: #cbd5e1;
+  width: 50%;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
